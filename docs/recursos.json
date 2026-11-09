@@ -1,0 +1,139 @@
+{
+  "fileKey": "6g6blQgqw9U4GF5CsrT1T2",
+  "desktop": "57:142",
+  "mobile": "57:315",
+  "uiKit": "213:408",
+  "menu": "2061:514",
+  "assets": [
+    {
+      "figmaConstant": "imgIconArrow",
+      "path": "assets/icons/1b2a3.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconTiktok",
+      "path": "assets/icons/0e75f.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconInstagram",
+      "path": "assets/icons/aaa4f.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconFacebook",
+      "path": "assets/icons/9671b.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconYoutube",
+      "path": "assets/icons/a0c02.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconSpotify",
+      "path": "assets/icons/c1be1.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconMail",
+      "path": "assets/icons/ec4e2.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconMusic",
+      "path": "assets/icons/886fa.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconUser",
+      "path": "assets/icons/14fbd.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconHome",
+      "path": "assets/icons/63a29.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconHeadphones",
+      "path": "assets/icons/e2b44.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconPlay",
+      "path": "assets/icons/bdbb2.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgInicio",
+      "path": "assets/images/6f551.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFotoDelArtista1",
+      "path": "assets/images/878e4.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFotoDelArtista2",
+      "path": "assets/images/9288d.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFotoDelArtista3",
+      "path": "assets/images/1f83e.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFotoDelArtista5",
+      "path": "assets/images/4de23.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFoto2",
+      "path": "assets/images/2f3df.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgFoto4",
+      "path": "assets/images/05997.png",
+      "status": "Referencia temporal aprobada en prototipo"
+    },
+    {
+      "figmaConstant": "imgLogoCarlosKuryDorado",
+      "path": "assets/images/a709b.png",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgLogoCarlosKuryDorado1",
+      "path": "assets/images/fc20c.png",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconPlay1",
+      "path": "assets/icons/dac3b.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconPhone",
+      "path": "assets/icons/3b752.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconMenu",
+      "path": "assets/icons/5ea86.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconClose",
+      "path": "assets/icons/0c98d.svg",
+      "status": "Recurso exportado de Figma"
+    },
+    {
+      "figmaConstant": "imgIconPhoneDesktop",
+      "path": "assets/icons/d5d8a.svg",
+      "status": "Recurso exportado de Figma"
+    }
+  ]
+}

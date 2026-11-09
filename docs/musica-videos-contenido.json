@@ -1,0 +1,123 @@
+{
+  "checkedOn": "2026-11-08",
+  "source": "Enlaces proporcionados por el usuario, contrastados con oEmbed de YouTube y miniaturas HTTP 200",
+  "videos": [
+    {
+      "id": "cZzpsOK4njc",
+      "titleReference": "Hasta Siempre Yanaca",
+      "url": "https://www.youtube.com/watch?v=cZzpsOK4njc",
+      "thumbnail": "https://i.ytimg.com/vi/cZzpsOK4njc/hqdefault.jpg",
+      "localThumbnail": "assets/images/cZzpsOK4njc.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 14425
+    },
+    {
+      "id": "f17g6OlxvII",
+      "titleReference": "Hasta Siempre Yanaca (2006)",
+      "url": "https://www.youtube.com/watch?v=f17g6OlxvII",
+      "thumbnail": "https://i.ytimg.com/vi/f17g6OlxvII/hqdefault.jpg",
+      "localThumbnail": "assets/images/f17g6OlxvII.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 5220
+    },
+    {
+      "id": "8xu4BnNQAP8",
+      "titleReference": "Sirenayan (Carnavales)",
+      "url": "https://www.youtube.com/watch?v=8xu4BnNQAP8",
+      "thumbnail": "https://i.ytimg.com/vi/8xu4BnNQAP8/hqdefault.jpg",
+      "localThumbnail": "assets/images/8xu4BnNQAP8.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 15593
+    },
+    {
+      "id": "A7UjnlMDLvY",
+      "titleReference": "Si Lloras Por Mi (Huayno)",
+      "url": "https://www.youtube.com/watch?v=A7UjnlMDLvY",
+      "thumbnail": "https://i.ytimg.com/vi/A7UjnlMDLvY/hqdefault.jpg",
+      "localThumbnail": "assets/images/A7UjnlMDLvY.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 14731
+    },
+    {
+      "id": "LX_mz8MEkiY",
+      "titleReference": "Rio Churin (Huayno)",
+      "url": "https://www.youtube.com/watch?v=LX_mz8MEkiY",
+      "thumbnail": "https://i.ytimg.com/vi/LX_mz8MEkiY/hqdefault.jpg",
+      "localThumbnail": "assets/images/LX_mz8MEkiY.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 20514
+    },
+    {
+      "id": "qTdK6Etz6Kw",
+      "titleReference": "Ponchito Rojo (Huayno)",
+      "url": "https://www.youtube.com/watch?v=qTdK6Etz6Kw",
+      "thumbnail": "https://i.ytimg.com/vi/qTdK6Etz6Kw/hqdefault.jpg",
+      "localThumbnail": "assets/images/qTdK6Etz6Kw.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 17566
+    },
+    {
+      "id": "UolSYIt3j-Y",
+      "titleReference": "Papel Sellado (Huayno)",
+      "url": "https://www.youtube.com/watch?v=UolSYIt3j-Y",
+      "thumbnail": "https://i.ytimg.com/vi/UolSYIt3j-Y/hqdefault.jpg",
+      "localThumbnail": "assets/images/UolSYIt3j-Y.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 24194
+    },
+    {
+      "id": "fMQDOI99XdI",
+      "titleReference": "Mi Mollecito (Huayno)",
+      "url": "https://www.youtube.com/watch?v=fMQDOI99XdI",
+      "thumbnail": "https://i.ytimg.com/vi/fMQDOI99XdI/hqdefault.jpg",
+      "localThumbnail": "assets/images/fMQDOI99XdI.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 23237
+    },
+    {
+      "id": "hghl3TVuaY8",
+      "titleReference": "Con Dinero o Sin Dinero (Carnavales)",
+      "url": "https://www.youtube.com/watch?v=hghl3TVuaY8",
+      "thumbnail": "https://i.ytimg.com/vi/hghl3TVuaY8/hqdefault.jpg",
+      "localThumbnail": "assets/images/hghl3TVuaY8.jpg",
+      "oEmbedStatus": 200,
+      "oEmbedAuthor": "Carlos Kury",
+      "oEmbedAuthorUrl": "https://www.youtube.com/@CarlosKuryOficial",
+      "embedDocumentStatus": 200,
+      "playbackVerified": false,
+      "thumbnailBytes": 8884
+    }
+  ]
+}
