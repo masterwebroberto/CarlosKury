@@ -1,0 +1,358 @@
+{
+  "results": [
+    {
+      "file": "nosotros.html",
+      "width": 1440,
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 106,
+        "width": 1440,
+        "height": 577.515625,
+        "right": 1440,
+        "bottom": 683.515625
+      },
+      "text": {
+        "x": 96,
+        "y": 298.25,
+        "width": 550.796875,
+        "height": 192,
+        "right": 646.796875,
+        "bottom": 490.25
+      },
+      "image": {
+        "x": 670.796875,
+        "y": 170,
+        "width": 673.203125,
+        "height": 448.515625,
+        "right": 1344,
+        "bottom": 618.515625
+      },
+      "fit": "contain",
+      "ratio": 1.502008032128514,
+      "background": "rgb(11, 9, 7)",
+      "buttons": []
+    },
+    {
+      "file": "musica-y-videos.html",
+      "width": 1440,
+      "viewport": 1440,
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 106,
+        "width": 1440,
+        "height": 577.515625,
+        "right": 1440,
+        "bottom": 683.515625
+      },
+      "text": {
+        "x": 96,
+        "y": 254.25,
+        "width": 550.796875,
+        "height": 280,
+        "right": 646.796875,
+        "bottom": 534.25
+      },
+      "image": {
+        "x": 670.796875,
+        "y": 170,
+        "width": 673.203125,
+        "height": 448.515625,
+        "right": 1344,
+        "bottom": 618.515625
+      },
+      "fit": "contain",
+      "ratio": 1.502008032128514,
+      "background": "rgb(11, 9, 7)",
+      "buttons": [
+        {
+          "href": "#musica",
+          "x": 96,
+          "y": 482.25,
+          "width": 116.4375,
+          "height": 52,
+          "right": 212.4375,
+          "bottom": 534.25
+        },
+        {
+          "href": "#videos",
+          "x": 228.4375,
+          "y": 482.25,
+          "width": 114.328125,
+          "height": 52,
+          "right": 342.765625,
+          "bottom": 534.25
+        }
+      ]
+    },
+    {
+      "file": "nosotros.html",
+      "width": 768,
+      "viewport": 768,
+      "scrollWidth": 768,
+      "hero": {
+        "x": 0,
+        "y": 106,
+        "width": 768,
+        "height": 520,
+        "right": 768,
+        "bottom": 626
+      },
+      "text": {
+        "x": 40,
+        "y": 265.5,
+        "width": 302.390625,
+        "height": 200,
+        "right": 342.390625,
+        "bottom": 465.5
+      },
+      "image": {
+        "x": 358.390625,
+        "y": 242.296875,
+        "width": 369.59375,
+        "height": 246.390625,
+        "right": 727.984375,
+        "bottom": 488.6875
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": []
+    },
+    {
+      "file": "musica-y-videos.html",
+      "width": 768,
+      "viewport": 768,
+      "scrollWidth": 768,
+      "hero": {
+        "x": 0,
+        "y": 106,
+        "width": 768,
+        "height": 520,
+        "right": 768,
+        "bottom": 626
+      },
+      "text": {
+        "x": 40,
+        "y": 193.5,
+        "width": 302.390625,
+        "height": 344,
+        "right": 342.390625,
+        "bottom": 537.5
+      },
+      "image": {
+        "x": 358.390625,
+        "y": 242.296875,
+        "width": 369.59375,
+        "height": 246.390625,
+        "right": 727.984375,
+        "bottom": 488.6875
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": [
+        {
+          "href": "#musica",
+          "x": 40,
+          "y": 485.5,
+          "width": 116.4375,
+          "height": 52,
+          "right": 156.4375,
+          "bottom": 537.5
+        },
+        {
+          "href": "#videos",
+          "x": 172.4375,
+          "y": 485.5,
+          "width": 114.328125,
+          "height": 52,
+          "right": 286.765625,
+          "bottom": 537.5
+        }
+      ]
+    },
+    {
+      "file": "nosotros.html",
+      "width": 390,
+      "viewport": 390,
+      "scrollWidth": 390,
+      "hero": {
+        "x": 0,
+        "y": 90,
+        "width": 390,
+        "height": 533,
+        "right": 390,
+        "bottom": 623
+      },
+      "text": {
+        "x": 24,
+        "y": 130,
+        "width": 342,
+        "height": 200,
+        "right": 366,
+        "bottom": 330
+      },
+      "image": {
+        "x": 24,
+        "y": 354,
+        "width": 342,
+        "height": 228,
+        "right": 366,
+        "bottom": 582
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": []
+    },
+    {
+      "file": "musica-y-videos.html",
+      "width": 390,
+      "viewport": 390,
+      "scrollWidth": 390,
+      "hero": {
+        "x": 0,
+        "y": 90,
+        "width": 390,
+        "height": 677,
+        "right": 390,
+        "bottom": 767
+      },
+      "text": {
+        "x": 24,
+        "y": 130,
+        "width": 342,
+        "height": 344,
+        "right": 366,
+        "bottom": 474
+      },
+      "image": {
+        "x": 24,
+        "y": 498,
+        "width": 342,
+        "height": 228,
+        "right": 366,
+        "bottom": 726
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": [
+        {
+          "href": "#musica",
+          "x": 24,
+          "y": 422,
+          "width": 120,
+          "height": 52,
+          "right": 144,
+          "bottom": 474
+        },
+        {
+          "href": "#videos",
+          "x": 160,
+          "y": 422,
+          "width": 120,
+          "height": 52,
+          "right": 280,
+          "bottom": 474
+        }
+      ]
+    },
+    {
+      "file": "nosotros.html",
+      "width": 360,
+      "viewport": 360,
+      "scrollWidth": 360,
+      "hero": {
+        "x": 0,
+        "y": 90,
+        "width": 360,
+        "height": 513,
+        "right": 360,
+        "bottom": 603
+      },
+      "text": {
+        "x": 24,
+        "y": 130,
+        "width": 312,
+        "height": 200,
+        "right": 336,
+        "bottom": 330
+      },
+      "image": {
+        "x": 24,
+        "y": 354,
+        "width": 312,
+        "height": 208,
+        "right": 336,
+        "bottom": 562
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": []
+    },
+    {
+      "file": "musica-y-videos.html",
+      "width": 360,
+      "viewport": 360,
+      "scrollWidth": 360,
+      "hero": {
+        "x": 0,
+        "y": 90,
+        "width": 360,
+        "height": 657,
+        "right": 360,
+        "bottom": 747
+      },
+      "text": {
+        "x": 24,
+        "y": 130,
+        "width": 312,
+        "height": 344,
+        "right": 336,
+        "bottom": 474
+      },
+      "image": {
+        "x": 24,
+        "y": 498,
+        "width": 312,
+        "height": 208,
+        "right": 336,
+        "bottom": 706
+      },
+      "fit": "contain",
+      "ratio": 1.5,
+      "background": "rgb(11, 9, 7)",
+      "buttons": [
+        {
+          "href": "#musica",
+          "x": 24,
+          "y": 422,
+          "width": 120,
+          "height": 52,
+          "right": 144,
+          "bottom": 474
+        },
+        {
+          "href": "#videos",
+          "x": 160,
+          "y": 422,
+          "width": 120,
+          "height": 52,
+          "right": 280,
+          "bottom": 474
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "outsideHeroUnchanged": true,
+  "reducedMotion": {
+    "animation": "none",
+    "transition": "0s"
+  }
+}

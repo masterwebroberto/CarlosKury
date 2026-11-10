@@ -135,5 +135,10 @@
       "path": "assets/icons/d5d8a.svg",
       "status": "Recurso exportado de Figma"
     }
-  ]
+  ],
+  "nosotros": {
+    "desktop": "211:364",
+    "mobile": "211:498",
+    "officialPhotos": "assets/images/official/manifest.json"
+  }
 }

@@ -1,5 +1,7 @@
 # Fuente de diseño y decisiones
 
+Actualización Fase 7: Nosotros y fotografías oficiales implementadas. Las descripciones de recursos temporales más abajo corresponden al estado inicial; consultar [fase7-fotografias-nosotros.md](fase7-fotografias-nosotros.md) para el estado vigente.
+
 Consulta mediante Figma MCP del archivo aprobado facilitado por el usuario:
 https://www.figma.com/design/6g6blQgqw9U4GF5CsrT1T2/Carlos-Kury?node-id=57-142
 

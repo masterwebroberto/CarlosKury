@@ -1,0 +1,80 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": 0,
+      "heroHeight": 568,
+      "sendDisabled": true,
+      "privacyDisabled": true,
+      "validation": true,
+      "keyboard": true,
+      "focus": {
+        "width": "3px",
+        "style": "solid"
+      }
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": 0,
+      "heroHeight": 568,
+      "sendDisabled": true,
+      "privacyDisabled": true,
+      "validation": true,
+      "keyboard": true,
+      "focus": {
+        "width": "3px",
+        "style": "solid"
+      }
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": 0,
+      "heroHeight": 640,
+      "sendDisabled": true,
+      "privacyDisabled": true,
+      "validation": true,
+      "keyboard": true,
+      "focus": {
+        "width": "3px",
+        "style": "solid"
+      }
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "broken": 0,
+      "heroHeight": 640,
+      "sendDisabled": true,
+      "privacyDisabled": true,
+      "validation": true,
+      "keyboard": true,
+      "focus": {
+        "width": "3px",
+        "style": "solid"
+      }
+    }
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "outsideScopeUnchanged": true,
+  "contrast": {
+    "body": 11.759916913272916,
+    "gold": 8.470712434698777,
+    "whiteOnBronze": 9.814881984906876,
+    "card": 9.91063023748809
+  },
+  "inMemoryPostTests": {
+    "activationGates": true,
+    "privacyRequired": true,
+    "loading": true,
+    "rejection": true,
+    "missingAcknowledgement": true,
+    "networkFailure": true,
+    "acceptance": true,
+    "realSubmissions": 0
+  },
+  "noJavaScriptSafe": true
+}

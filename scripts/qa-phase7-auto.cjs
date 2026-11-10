@@ -1,0 +1,20 @@
+const { chromium } = require('C:/Users/Administrador/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs');
+const path=require('path');
+(async()=>{
+ const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+ const page=await browser.newPage({viewport:{width:390,height:900}});
+ await page.goto('file:///'+path.resolve(__dirname,'../index.html').replaceAll('\\','/'));
+ await page.mouse.move(0,0);
+ const before=await page.locator('#fotos').evaluate(x=>x.scrollLeft);
+ await page.waitForTimeout(5700);
+ const after=await page.locator('#fotos').evaluate(x=>x.scrollLeft);
+ if(after<=before)throw Error('Autoavance no funciona');
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await page.waitForFunction(()=>document.querySelector('[data-carousel-pause]').disabled);
+ const reduced=await page.locator('[data-carousel-pause]').isDisabled();
+ if(!reduced)throw Error('Movimiento reducido no respetado');
+ const output={autoAdvance:true,before,after,reducedMotion:true};
+ fs.writeFileSync(path.resolve(__dirname,'../docs/qa/fase7-autoavance.json'),JSON.stringify(output,null,2));
+ console.log(JSON.stringify(output));await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

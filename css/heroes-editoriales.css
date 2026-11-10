@@ -1,0 +1,70 @@
+/* Alcance exclusivo: Hero de Nosotros y Hero de Música y Videos. */
+.about-page .editorial-hero,
+.music-videos-page .editorial-hero {
+  display: grid;
+  grid-template-columns: minmax(0,45fr) minmax(0,55fr);
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 560px;
+  padding: var(--space-5) var(--page-gutter);
+  background: var(--color-bg-base);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+.about-page .editorial-hero { border-bottom-color: transparent; }
+.about-page .editorial-hero::before,
+.music-videos-page .editorial-hero::before { content: none; }
+.about-page .editorial-hero .editorial-hero__content,
+.music-videos-page .editorial-hero .editorial-hero__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-3);
+  min-width: 0;
+  max-width: none;
+}
+.editorial-hero .editorial-hero__content h1 { width: 100%; color: var(--color-brand-gold); }
+.editorial-hero__intro { max-width: 42ch; color: var(--color-text-muted); text-wrap: pretty; }
+.about-page .editorial-hero .editorial-hero__visual,
+.music-videos-page .editorial-hero .editorial-hero__visual {
+  position: relative;
+  min-width: 0;
+  max-width: none;
+  width: 100%;
+  margin: 0;
+}
+.editorial-hero .editorial-hero__visual .hero__image {
+  position: static;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 90%, transparent), linear-gradient(0deg, transparent, #000 14%, #000 88%, transparent);
+  mask-composite: intersect;
+}
+.editorial-hero .music-subnav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  padding: 0;
+  background: transparent;
+}
+@media (min-width: 768px) and (max-width: 1099px) {
+  .about-page .editorial-hero,
+  .music-videos-page .editorial-hero { min-height: 520px; gap: var(--space-2); padding-block: var(--space-4); }
+  .editorial-hero .editorial-hero__content h1 { font: var(--font-h1); }
+}
+@media (max-width: 767px) {
+  .about-page .editorial-hero,
+  .music-videos-page .editorial-hero {
+    grid-template-columns: minmax(0,1fr);
+    min-height: 0;
+    gap: var(--space-3);
+    padding: var(--space-4) var(--page-gutter);
+  }
+  .editorial-hero .editorial-hero__content h1 { font: var(--font-h1); }
+  .editorial-hero .editorial-hero__visual { width: 100%; }
+  .editorial-hero .music-subnav .button { min-width: 120px; }
+}
